@@ -10,7 +10,7 @@ sudo apt install libsfml-dev libportaudio2 portaudio19-dev libfftw3-dev g++
 # Optional: Arial font
 sudo apt install fonts-liberation
 
-For Mac 🍎
+### **For Mac 🍎
 # 1. Install Homebrew (one-time, if not installed)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
@@ -20,7 +20,7 @@ brew install sfml portaudio fftw pkg-config
 # Optional: Arial-like font
 brew install font-liberation
 
-For Windows 🪟
+### * For Windows 🪟
 REM One-time vcpkg setup (if first time)
 git clone https://github.com/Microsoft/vcpkg.git
 cd vcpkg
