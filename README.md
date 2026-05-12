@@ -94,7 +94,7 @@ Then:
 
 ---
 
-##🐧 Linux (Ubuntu/Debian)
+## 🐧 Linux (Ubuntu/Debian)
 
 Install dependencies:
 
