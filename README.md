@@ -16,7 +16,7 @@ This project uses:
 
 # Installation Guide
 
-## macOS
+## 🍎 macOS
 
 Install dependencies using [Homebrew](https://brew.sh?utm_source=chatgpt.com):
 
@@ -43,7 +43,7 @@ Run:
 
 ---
 
-## Windows
+## 🪟 Windows
 
 ### Option 1 — Using MSYS2 (Recommended)
 
@@ -94,7 +94,7 @@ Then:
 
 ---
 
-## Linux (Ubuntu/Debian)
+##🐧 Linux (Ubuntu/Debian)
 
 Install dependencies:
 
