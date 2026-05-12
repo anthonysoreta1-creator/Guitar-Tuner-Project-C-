@@ -1,4 +1,4 @@
-# Guitar-Tuner-Project-C-
+# Guitar-Tuner-Project-C++
 
 ## 🛠️ Dependencies Installation
 *Before running Guitar Tuner, install these based on your OS:*
